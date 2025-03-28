@@ -1,2 +1,3 @@
-# Mini-Restaurant-by-using-Python
-This Project is a simple Python-based restaurant ordering system. It uses a predefined menu to allow users to select food items, validates their input, calculates the total bill, and displays the order summary interactively. Perfect for learning input handling, conditionals, and dictionary operations!
+**🍽️ Mini Restaurant - Python Ordering System 🍕**  
+
+A simple yet interactive **restaurant ordering system** built with Python! 🛒✨ Choose from a predefined menu, place your order, and get a detailed bill instantly. ✅ Input validation, real-time calculations, and order summaries make it a fun way to explore Python basics like dictionaries and conditionals. 🚀 Try it out and enjoy coding your own digital restaurant! 🍔🔥
